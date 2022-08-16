@@ -72,13 +72,13 @@ span {
   cursor: pointer;
   transition: 0.3s ease;
   margin: 0px 14px;
-  border: 2px solid var(--first-color);
+  border: 3px solid var(--first-color);
 }
 
 .btn1:hover {
   background-color: white;
   color: var(--first-color);
-  border: 2px solid white;
+  border: 3px solid white;
 }
 
 .btn2 {
@@ -91,13 +91,13 @@ span {
   cursor: pointer;
   transition: 0.3s ease;
   margin: 0px 14px;
-  border: 2px solid white;
+  border: 3px solid white;
 }
 
 .btn2:hover {
   background-color: transparent;
   color: var(--first-color);
-  border: 2px solid var(--first-color);
+  border: 3px solid var(--first-color);
 }
 
 .img-section {
