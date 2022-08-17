@@ -198,3 +198,6 @@ span {
   background: #555;
   cursor: pointer;
 }
+
+@media screen and (max-width: 1200px) {
+}
